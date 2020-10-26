@@ -12,7 +12,11 @@ namespace RPG_UML
             bool userContinue = true;
             List<GameCharacter> characterList = new List<GameCharacter>
             {
-                new Warrior("Alistair", 14, 8, "Short Sword")
+                new Warrior("Alistair", 14, 8, "Short Sword"),
+                new Warrior("Fenris", 17, 10, "Great Sword"),
+                new Warrior("Cassandra", 15, 12, "Long Sword"),
+                new Wizard("Morrigan", 7, 15, 15, 7),
+                new Wizard("Dorian", 10, 13, 13, 8)
             };
 
             

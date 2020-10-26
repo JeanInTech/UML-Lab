@@ -18,18 +18,5 @@ namespace RPG_UML
             base.Play();
             Console.WriteLine($"Magical Energy: {MagicalEnergy}");
         }
-        public new MagicUsingCharacter CreateCharacter()
-        {
-            Console.WriteLine("What the name of your new character?");
-            string name = Console.ReadLine().Trim();
-            Console.WriteLine("What's your character's strength?");
-            int strength = Int32.Parse(Console.ReadLine().Trim());
-            Console.WriteLine("What's your character's intelligence?");
-            int intelligence = Int32.Parse(Console.ReadLine().Trim());
-            Console.WriteLine("What's your character's Magical Energy?");
-            int magicalEnergy = Int32.Parse(Console.ReadLine().Trim());
-
-            return new MagicUsingCharacter(name, strength, intelligence, magicalEnergy);
-        }
     }
 }
