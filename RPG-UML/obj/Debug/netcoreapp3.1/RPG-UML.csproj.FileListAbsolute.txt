@@ -1,0 +1,13 @@
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.exe
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.deps.json
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.runtimeconfig.json
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.runtimeconfig.dev.json
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.dll
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\bin\Debug\netcoreapp3.1\RPG-UML.pdb
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.csprojAssemblyReference.cache
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.AssemblyInfoInputs.cache
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.AssemblyInfo.cs
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.csproj.CoreCompileInputs.cache
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.dll
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.pdb
+C:\Users\jenif\source\repos\RPG-UML\RPG-UML\obj\Debug\netcoreapp3.1\RPG-UML.genruntimeconfig.cache
